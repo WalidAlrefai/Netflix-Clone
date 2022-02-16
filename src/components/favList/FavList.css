@@ -1,0 +1,11 @@
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+}
+
+.cardFav{
+    height: 600px;
+    overflow-x: auto;
+    margin: 40px;
+}

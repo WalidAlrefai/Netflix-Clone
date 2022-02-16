@@ -1,4 +1,10 @@
-.move{
+/* .move{
     width: 600px;
     height: 1000px;
+} */
+
+.cardHome{
+    height: 600px;
+    overflow-x: auto;
+    margin: 30px;
 }
