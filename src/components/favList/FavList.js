@@ -24,7 +24,7 @@ export default function FavList() {
             getDataFromDB();
             Swal.fire(
                 'It is done!',
-                'Recipe Deleted Successfully',
+                'Movie Deleted Successfully',
                 'success'
             )
         }
